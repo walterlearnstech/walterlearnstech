@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 
+
+
 
 <!--
 **walterlearnstech/walterlearnstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Walter and I'm _learning tech_!
+
+I'm currently focusing on:
+
+* networking
+* cloud
+* python
+
+Other topics may pop up as well, but vibe with me as I work to become sexy in these areas. 
